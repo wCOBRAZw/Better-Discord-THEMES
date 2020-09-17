@@ -1,1 +1,0 @@
-This is Atlantida, a deep sea like theme, made by wCOBRAZw and tested by Gravitty.
