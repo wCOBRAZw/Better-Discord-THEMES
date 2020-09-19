@@ -16,3 +16,5 @@ FutureC, a futuristic city theme, made by wCOBRAZw.
 NS, a Naruto anime theme, made by wCOBRAZw.
 
 T-WAR, a tank war theme, made by wCOBRAZw.
+
+It was a joke, a joker theme.
