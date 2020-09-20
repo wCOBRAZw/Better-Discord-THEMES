@@ -3,18 +3,20 @@ My own better discord themes
 
 Themes:
 
-Atlantida, a deep sea like theme, made by wCOBRAZw and tested by Gravity.
+Atlantida, a deep sea like theme.
 
-Akira, a pokemon related theme, made by wCOBRAZw and tested by Gravity.
+Akira, a pokemon related theme.
 
-Henta1, a hentai related theme, made by wCOBRAZw and tested by Gravity.
+Henta1, a hentai related theme.
 
-Among us, an Among us theme, made by wCOBRAZw and tested by Gravity.
+Among us, an Among us theme.
 
-FutureC, a futuristic city theme, made by wCOBRAZw.
+FutureC, a futuristic city theme.
 
-NS, a Naruto anime theme, made by wCOBRAZw.
+NS, a Naruto anime theme.
 
-T-WAR, a tank war theme, made by wCOBRAZw.
+T-WAR, a tank war theme.
 
 It was a joke, a joker theme.
+
+Infernum, a hell theme.
