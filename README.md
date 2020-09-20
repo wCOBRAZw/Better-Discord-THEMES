@@ -27,4 +27,6 @@ InterGalaxian, a space theme.
 
 Sian, a car theme.
 
-1098, a motorcycle theme.
+Cucciolo, a motorcycle theme.
+
+Crucero, a cruise theme.
