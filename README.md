@@ -30,3 +30,5 @@ Sian, a car theme.
 Cucciolo, a motorcycle theme.
 
 Crucero, a cruise theme.
+
+Afinity, an airplane theme.
